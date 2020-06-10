@@ -3,4 +3,4 @@
 :sources:
   :base:
     remote: 'https://github.com/GlitchWraith/puppet.git'
-    basedir: 'environments'
+    basedir: '/etc/puppetlabs/code/environments'
